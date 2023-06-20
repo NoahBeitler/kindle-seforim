@@ -4,7 +4,7 @@
 #####
 # directories
 #####
-startpoint="Derekh_Mitzvotekha"
+startpoint="Likkutei_Torah"
 scripts="./scripts/$startpoint"
 css="$scripts/$startpoint.css"
 intermediate="./intermediate/$startpoint"
